@@ -1,6 +1,5 @@
-import React from "react";
+import "./Micomponente.css";
 
-const Micomponente = () => <div>Hola Mundo desde mi Nuevo Componente</div>;
-
+const Micomponente = () => <span>Hola Mundo desde mi Nuevo Componente</span>;
 
 export default Micomponente;
